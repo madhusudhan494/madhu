@@ -1,0 +1,11 @@
+git clone url: copy of remote github to local machine
+git add .: moving the code from local machine to stg env
+git status: to see the changes what may happen to my remote repos.
+git commit -m "code added": confirming the code which need to sent to remote repos
+git push: pushing the code from stg env to remote repos.
+git pull: pulls the latest code from github repos to local machine.
+
+
+
+
+https://github.com/Azure-Samples/dotnet-core-api
